@@ -1,0 +1,17 @@
+.weatherinput {
+    top: 6px;
+    width: 600px;
+    display: inline-block;
+    padding: 10px 10px 10px 30px;
+    line-height: 120%;
+    position: relative;
+    border-radius: 20px;
+    outline: none;
+    font-size: 20px;
+    transition: all 0.5s ease-out;
+    -webkit-transition: 'all 0.5s ease-out';
+    -moz-transition: 'all 0.5s ease-out';
+    -ms-transition: 'all 0.5s ease-out';
+    -o-transition: 'all 0.5s ease-out';
+   
+}
